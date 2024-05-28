@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="abstract factory added">
-      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/MediaPlayerContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/PausedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/PlayingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/StoppedState.java" afterDir="false" />
+    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="state pattern added">
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/CommandPattern/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/CommandPattern/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/CommandPattern/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/CommandPattern/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/CommandPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/CommandPattern/RemoteControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,6 +69,7 @@
       <recent name="C:\Users\ezgie\IdeaProjects\CE216Labs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BehavioralDesignPattern.CommandPattern" />
       <recent name="CreationalDesignPattern.AbstractFactory" />
       <recent name="CreationalDesignPattern.Factory" />
       <recent name="StructuralDesignPattern" />
@@ -108,13 +109,22 @@
       <option name="project" value="LOCAL" />
       <updated>1716904984280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="state pattern added">
+      <option name="closed" value="true" />
+      <created>1716907603144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716907603144</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="structural Design pattern example finished. Thread example on half-way" />
     <MESSAGE value="Singleton ve factory method bitti" />
     <MESSAGE value="abstract factory added" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract factory added" />
+    <MESSAGE value="state pattern added" />
+    <option name="LAST_COMMIT_MESSAGE" value="state pattern added" />
   </component>
 </project>
