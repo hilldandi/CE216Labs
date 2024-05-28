@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="Singleton ve factory method bitti">
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/ComputerAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/ComputerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/PCFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory/ServerFactory.java" afterDir="false" />
+    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="abstract factory added">
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/MediaPlayerContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/PausedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/PlayingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehavioralDesignPattern/StatePattern/StoppedState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -102,12 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716901978145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="abstract factory added">
+      <option name="closed" value="true" />
+      <created>1716904984280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716904984280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="structural Design pattern example finished. Thread example on half-way" />
     <MESSAGE value="Singleton ve factory method bitti" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton ve factory method bitti" />
+    <MESSAGE value="abstract factory added" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract factory added" />
   </component>
 </project>
