@@ -4,32 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CE216Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Mp3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/VlcPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Lab6/HistogramMultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Lab6/HistogramSingleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Lab6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Lab6/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Lesson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Lesson/MyThread.java" afterDir="false" />
+    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="structural Design pattern example finished. Thread example on half-way">
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory/Hatchback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory/Suv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hilldandi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hilldandi/CE216Labs.git",
+    "accountId": "0f239153-83e4-46e8-ac90-420496e8dd37"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -56,21 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HistogramSingleThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HistogramSingleThread.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ezgie/IdeaProjects/CE216Labs/src/CreationalDesignPattern"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ezgie\IdeaProjects\CE216Labs\src\CreationalDesignPattern" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ezgie\IdeaProjects\CE216Labs" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CreationalDesignPattern.Factory" />
       <recent name="StructuralDesignPattern" />
       <recent name="Thread.Lab6" />
     </key>
@@ -84,6 +85,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716843577367</updated>
     </task>
+    <task id="LOCAL-00001" summary="structural Design pattern example finished. Thread example on half-way">
+      <option name="closed" value="true" />
+      <created>1716899713563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716899713563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="structural Design pattern example finished. Thread example on half-way" />
+    <option name="LAST_COMMIT_MESSAGE" value="structural Design pattern example finished. Thread example on half-way" />
   </component>
 </project>
