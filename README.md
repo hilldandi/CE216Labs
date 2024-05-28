@@ -36,3 +36,7 @@ Bu sistemde lambaları açma ve kapama işlemleri yapılabiliyor.
 Her işlem bir komut olarak tanımlanmalı ve bu komutlar bir komut dizisi olarak çalıştırılabilir olmalıdır. 
 Bu durumu Command tasarım deseni kullanarak uygulayın. 
 Bir lambayı açma ve kapama komutlarını oluşturup bu komutları bir invoker aracılığıyla çalıştıran bir uygulama yazın.
+
+5. Testing Task:
+
+5.1. Lira-Kurus Unit Test
