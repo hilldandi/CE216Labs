@@ -4,10 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="command pattern added">
-      <change afterPath="$PROJECT_DIR$/src/Refactoring_ExtractFunction/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Refactoring_ExtractFunction/V2.java" afterDir="false" />
+    <list default="true" id="dc199dd2-63b5-40ae-9f18-50d3b3df8a82" name="Changes" comment="test added">
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Pink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/AbstractFactory2/Shhape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory2/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory2/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Factory2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Parser2/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Parser2/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Parser2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Parser2/ParserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Parser2/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/ParserExample/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/ParserExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/ParserExample/StructedParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/ParserExample/TranslationDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/ParserExample/TranslationParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/ParserExample/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreationalDesignPattern/Singleton2/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/IeuExample/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/IeuExample/Entities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDesignPattern/IeuExample/People.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CE216Labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CE216Labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/Lesson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/Lesson/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -25,18 +59,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hilldandi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hilldandi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hilldandi/CE216Labs.git",
-    "accountId": "0f239153-83e4-46e8-ac90-420496e8dd37"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hilldandi/CE216Labs.git&quot;,
+    &quot;accountId&quot;: &quot;0f239153-83e4-46e8-ac90-420496e8dd37&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,12 +82,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CreationalDesignPattern.AbstractFactory.Main.executor": "Run",
+    "Application.CreationalDesignPattern.AbstractFactory2.Main.executor": "Run",
+    "Application.CreationalDesignPattern.Factory2.Main.executor": "Run",
+    "Application.CreationalDesignPattern.Singleton2.Main.executor": "Run",
     "Application.HistogramSingleThread.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Thread.Lesson.Main.executor": "Run",
     "Application.V2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PriceTest.add.executor": "Run",
+    "JUnit.PriceTest.setKurus.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ezgie/IdeaProjects/CE216Labs/src/CreationalDesignPattern"
   }
@@ -65,21 +114,79 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ezgie\IdeaProjects\CE216Labs" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Debugging_Testing.UnitTest" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CreationalDesignPattern.AbstractFactory2" />
+      <recent name="CreationalDesignPattern.Factory2" />
       <recent name="BehavioralDesignPattern.CommandPattern" />
       <recent name="CreationalDesignPattern.AbstractFactory" />
       <recent name="CreationalDesignPattern.Factory" />
-      <recent name="StructuralDesignPattern" />
-      <recent name="Thread.Lab6" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="V2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Refactoring_ExtractFunction.V2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CreationalDesignPattern.AbstractFactory2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.AbstractFactory2.Main" />
       <module name="CE216Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Refactoring_ExtractFunction.*" />
+          <option name="PATTERN" value="CreationalDesignPattern.AbstractFactory2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreationalDesignPattern.AbstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.AbstractFactory.Main" />
+      <module name="CE216Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalDesignPattern.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreationalDesignPattern.Factory2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.Factory2.Main" />
+      <module name="CE216Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalDesignPattern.Factory2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreationalDesignPattern.Singleton2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.Singleton2.Main" />
+      <module name="CE216Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalDesignPattern.Singleton2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalDesignPattern.Parser2.Main" />
+      <module name="CE216Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalDesignPattern.Parser2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.V2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CreationalDesignPattern.AbstractFactory.Main" />
+        <item itemvalue="Application.CreationalDesignPattern.AbstractFactory2.Main" />
+        <item itemvalue="Application.CreationalDesignPattern.Factory2.Main" />
+        <item itemvalue="Application.CreationalDesignPattern.Singleton2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716910144488</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="function extracting added">
+      <option name="closed" value="true" />
+      <created>1716921506424</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716921506424</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test added">
+      <option name="closed" value="true" />
+      <created>1716932902519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716932902519</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,6 +278,8 @@
     <MESSAGE value="abstract factory added" />
     <MESSAGE value="state pattern added" />
     <MESSAGE value="command pattern added" />
-    <option name="LAST_COMMIT_MESSAGE" value="command pattern added" />
+    <MESSAGE value="function extracting added" />
+    <MESSAGE value="test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="test added" />
   </component>
 </project>

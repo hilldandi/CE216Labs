@@ -2,14 +2,13 @@ package Thread.Lesson;
 
 public class Main {
     public static void main(String[] args) {
-        MyThread m1=new MyThread("thread 1");
-        MyThread m2=new MyThread("thread 2");
+        MyThread t1=new MyThread("TH-1");
+        MyThread t2=new MyThread("th2");
 
-        Thread t1=new Thread(m1);
-        Thread t2=new Thread(m2);
-
-        t1.start();
-        t2.start();
+        Thread m1=new Thread(t1);
+        Thread m2 =new Thread(t2);
+        m1.start();
+        m2.start();
 
     }
 }
